@@ -49,6 +49,10 @@ python test.py
 
 The agent learns to play Atari Breakout through trial and error. Training progress can be monitored through the live plot generated during training.
 
+![Recording 2024-07-25 at 18 51 42](https://github.com/user-attachments/assets/156d0d44-e2f7-4559-94bf-cfe4646755d6)
+
+
+
 ## Future Work
 
 - Implement prioritized experience replay
